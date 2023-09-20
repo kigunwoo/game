@@ -1,3 +1,3 @@
 ## a.c 한자리씩 처리하기
 
-![한자리씩 처리하기](./github.png)  
+![file](./github.png)  
